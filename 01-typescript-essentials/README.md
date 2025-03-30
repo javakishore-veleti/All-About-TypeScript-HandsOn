@@ -8,5 +8,13 @@
 
 2. Using  TypeScript
 - Create and Develop code in first-app.ts 
+- Compile the above ts file using below command
+
+```shell
+npx tsc first-app.ts
+# or
+tsc first-app.tx
+# NOTE: Both the above creates a JavaScript file by name first-app.js file in the same folder where first-app.ts file exists
+```
 
 
